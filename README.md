@@ -74,16 +74,16 @@ yarn
 ---
 
 <h3 align="center">
-Autor: <a alt="Fred-Reis" href="https://github.com/joaovictorpsantos">João Victor Pereira Santos</a>
+Autor: <a alt="João Victor Pereira Santos" href="https://github.com/joaovictorpsantos">João Victor Pereira Santos</a>
 </h3>
 
 <p align="center">
 
-  <a alt="Frederico Reis" href="https://www.linkedin.com/in/joao-victor-pereira-santos//">
+  <a alt="João Victor Pereira Santos Linkedin" href="https://www.linkedin.com/in/joao-victor-pereira-santos//">
     <img src="https://img.shields.io/badge/LinkedIn-Jo%C3%A3o%20Victor%20Pereira%20Santos-blue?logo=linkedin"/></a>
-  <a alt="Frederico Reis" href="https://github.com/joaovictorpsantos">
+  <a alt="João Victor Pereira Santos GitHub" href="https://github.com/joaovictorpsantos">
   <img src="https://img.shields.io/badge/GitHub-joaovictorpsantos-lightgrey?logo=github"/></a>
- <a alt="Frederico Reis" href="https://twitter.com/_joaovictorps">
+ <a alt="João Victor Pereira Santos Twitter" href="https://twitter.com/_joaovictorps">
   <img src="https://img.shields.io/badge/Twitter-__joaovictorps-blue?logo=twitter"/></a>
 
 </p>
