@@ -10,7 +10,7 @@
 </h2>
 
 <h3 align="center">
-  <img alt="ReactNative" 
+  <img alt="NodeJS Logo" 
     src="https://camo.githubusercontent.com/cd88c471b7792557ac0b208fe9d8d7da19173cb7/68747470733a2f2f61727261796f75746f66696e6465782e66696c65732e776f726470726573732e636f6d2f323031372f30362f6e6f64652e706e67" width="180px"/>
 </h3>
 
